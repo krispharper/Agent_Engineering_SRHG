@@ -40,6 +40,7 @@ The core **code** we'll cover includes the fundamentals of LangChain - the core 
 
 # 🕴️ What is an Agent?
 
+<h3 align="center">Agents Overview, September, 2025, by Dr. Greg</h3>
 <p align="center">
   <a href="https://youtu.be/6kKQWSqTHV8">
     <img
@@ -97,6 +98,7 @@ The idea is simple but wide-ranging:
 
 It’s worth reviewing the primary figure from the original paper in detail, as well as other use cases:
 openai_vs_langchain_syntax.jpg
+
 <p align="center">
   <img src="react_pattern_from_paper.jpg" width="80%" />
 </p>
@@ -115,6 +117,7 @@ It should be noted that the beginning of function calling was simple prompting; 
 
 # 🪟 Context Engineering
 
+<h3 align="center">Context Engineering, September 2025, by Dr. Greg</h3>
 <p align="center">
   <a href="https://youtu.be/NyWMZUBp1w8">
     <img
@@ -153,6 +156,7 @@ It’s worth digging into the talk that coined the term in more detail here, as 
 
 # ⛓️ Core Constructs: LangChain (Classic)
 
+<h3 align="center">LangChain Overview, September, 2025, by Dr. Greg</h3>
 <p align="center">
   <a href="https://youtu.be/EVxkuFDWH_U">
     <img
@@ -292,6 +296,17 @@ rag_chain = retriever | prompt | model | output_parser
 Think of Runnables as the building blocks of your LLM application. Just like how you can combine LEGO bricks in countless ways, you can mix and match Runnables to create increasingly sophisticated applications!
 
 # 🔁 Core Construct: LangChain v1.0 - The Agent Loop
+
+<h3 align="center">Agent Loop Demo January, 2026, by The Wiz</h3>
+<p align="center">
+  <a href="https://youtu.be/ruFS_w_mBAs">
+    <img
+      src="https://img.youtube.com/vi/ruFS_w_mBAs/maxresdefault.jpg"
+      alt="Watch the video on YouTube"
+      width="80%"
+    />
+  </a>
+</p>
 
 With the new release of v1.0, LangChain has [made it easier than ever for us to build agents](https://youtu.be/r5Z_gYZb4Ns?si=9qOJ_Og2_NJ9hs3W) with the Agent Loop. 
 
