@@ -45,20 +45,20 @@ You will be required to submit a link to your GitHub, as well as screenshots of 
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner.
-    - Aspect Tested:
+    - Aspect Tested: ✅
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
+    - Aspect Tested: ✅
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:
+    - Aspect Tested: ✅
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:
+    - Aspect Tested: ✅
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+    - Aspect Tested: ✅
 
 #### ❓Question #1:
 
 Do the answers appear to be correct and useful?
-##### ✅ Answer:
+##### ✅ Answer: Yes, the chat interface works as expected, and is returning OpenAI responses.
 
 ---
 
@@ -73,17 +73,35 @@ Now test your assistant with personal questions it should be able to help with. 
 - "What can I cook with [enter ingredients] in fridge."
 
 ##### Your Prompts and Results:
-1. Prompt:
+1. Prompt: Help me think through the pros and cons of if this is a good way to test this project.
+   - Result: Of course! I’d be happy to help you think through the pros and cons. Could you please provide some details about the project and the testing method you’re considering?
+2. Prompt: Draft a polite follow-up email to a my boss who hasn't responded.
    - Result:
-2. Prompt:
+    > Subject: Follow-Up on [Topic/Project]
+    >
+    > Dear [Boss’s Name],
+    >
+    > I hope this message finds you well. I wanted to kindly follow up on my previous email regarding [briefly mention the subject or project]. Please let me know if you need any additional information from my side.
+    >
+    > Thank you for your time, and I look forward to your response.
+    >
+    > Best regards,  
+    > [Your Name]
+3. Prompt: Help me plan a birthday surprise for a friend.
    - Result:
-3. Prompt:
-   - Result:
-
+    > I'd love to help! To create the perfect birthday surprise, could you tell me a bit about your friend? For example:
+    > 
+    > - Their interests or hobbies  
+    > - - Favorite activities or places  
+    > - - Any preferences or things they dislike  
+    > - - Your budget or what resources you have available  
+    > - - Whether the surprise should be a party, a gift, an experience, or something else  
+    > -
+    > - With this info, I can help you plan something memorable!
 #### ❓Question #2:
 
 Are the vibes of this assistant's answers aligned with your vibes? Why or why not?
-##### ✅ Answer:
+##### ✅ Answer: Yes, it works as expected.
 
 ---
 
@@ -95,15 +113,25 @@ Now test your assistant with questions that would require capabilities beyond ba
 - "What time should I leave for the airport?"
 
 ##### Your Prompts and Results:
-1. Prompt:
+1. Prompt: What does my schedule look like tomorrow?
+   - Result: I don’t have access to your personal calendar. If you share your schedule details or give me access to your calendar, I can help you review it!
+2. Prompt: What time should I leave for the airport?
    - Result:
-2. Prompt:
-   - Result:
+    > To give you the best advice, could you please provide:
+    > 
+    > 1. Your flight departure time.
+    > 2. The airport you’re leaving from.
+    > 3. Your current location or how far you are from the airport.
+    > 4. Whether you have checked bags or just carry-on.
+    > 5. How you plan to get to the airport (car, taxi, public transit).
+    > 6. Any preferences for how early you want to arrive before your flight.
+    > 
+    > With that information, I can help you plan the best time to leave!
 
 #### ❓Question #3:
 
 What are some limitations of your application?
-##### ✅ Answer:
+##### ✅ Answer: As expected, it only has access to a single OpenAI API key, and doesn't have access to other tools like MCP servers or local tools.
 
 ---
 
