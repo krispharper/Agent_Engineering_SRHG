@@ -9,7 +9,7 @@
 
 | Module Sheet | Recording     | Slides        | Repo         | Homework      | Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Agent Memory](../00_Docs/Session_Sheets/06_Agent_Memory.md) |[Recording!](https://us02web.zoom.us/rec/share/4yIJxK2_0W0HimO6HNmpfG4axN25hzyaYVW2r2T1qyV9pgVj0dL8zPB1FJ3DU4Fd.g-4WZR6SML7DIx5x) <br> passcode: `rX1?b?03`| [Module 6 Slides](https://www.canva.com/design/DAG_1NHuEgU/0rYtze53UiliqeNbhIrDvA/edit?utm_content=DAG_1NHuEgU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [Module 6 Assignment: Memory](https://forms.gle/eHbbv4xkFaBXE5QV8) | [Feedback 1/29](https://forms.gle/CPdviSGjFCf7rkPu9) |
+| [Agent Memory](../00_Docs/Modules/06_Agent_Memory/README.md) | Coming soon!| [Module 6 Slides](https://www.canva.com/design/DAHA9EgZhrs/yMlmJQwBRCFHxvPvVyhlTQ/edit?utm_content=DAHA9EgZhrs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [Module 6 Assignment: Memory](https://forms.gle/vyYhAsbZdgLZSu3RA) | [Feedback 2/10](https://forms.gle/k1cESPgXsYWrBTDU7) |
 
 
 ### Outline:

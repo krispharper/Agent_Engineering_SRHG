@@ -9,7 +9,7 @@
 
 | Module Sheet | Recording     | Slides        | Repo         | Homework      | Feedback       |
 |:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------|
-| [Multi-Agent Applications](../00_Docs/Session_Sheets/05_Multi-Agent_Applications.md) |[Recording!](https://us02web.zoom.us/rec/share/jwQXJvfXHDqnHrdYbM3N4IIdC11RjrTt7SdONULHt5dEl1Yewt5yq8RkdUmh6SN2.6yBYiaF50OXCloq-) <br> passcode: `Ka!v5.@#`| [Module 5 Slides](https://www.canva.com/design/DAG-EKkrXTw/jbDOFE4UMTVTNNUOFylBpA/edit?utm_content=DAG-EKkrXTw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [Module 5 Assignment: Multi Agents](https://forms.gle/5E9uamcVXHCdqRek6) | [Feedback 1/27](https://forms.gle/Cj2YXREqaRaJ66y36) |
+| [Multi-Agent Applications](../00_Docs/Modules/05_Multi-Agent_Applications/README.md) |Coming soon! | [Module 5 Slides](https://www.canva.com/design/DAHA9EgZhrs/yMlmJQwBRCFHxvPvVyhlTQ/edit?utm_content=DAHA9EgZhrs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | You are here! | [Module 5 Assignment: Multi Agents](https://forms.gle/nXFVqwvVfiVM8DWQ7) | [Feedback 2/10](https://forms.gle/k1cESPgXsYWrBTDU7) |
 
 
 ### Outline:
