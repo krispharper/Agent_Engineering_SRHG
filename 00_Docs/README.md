@@ -20,7 +20,6 @@ Although we will sequence material slightly differently than we have shown below
 - [🔄 Multi-Agent Applications](./Modules/05_Multi-Agent_Applications/README.md)
 - [🧠 Agent Memory](./Modules/06_Agent_Memory/README.md)
 - [🐕 Advanced Retrievers](./Modules/09_Advanced_Retreivers)
-- 🔌 MCP Connectors
 - [📶 Deep Agents](./Modules/10_Deep_Agents)
 - [🕵️ Deep Research](./Modules/11_Deep_Research)
 
@@ -29,6 +28,6 @@ Although we will sequence material slightly differently than we have shown below
 - [📊 Agentic RAG Evaluation](./Modules/08_Agentic_RAG_Evaluation)
 
 #### Production Deployments
-- 🚢 Agent Servers
-- 🔀 MCP Servers
-- 🛤️ Guardrails & Caching
+- [🔌 Model Context Protocol](./Modules/12_MCP)
+- [🚢 Agent Servers](./Modules/13_Agent_Servers)
+- [🛤️ Guardrails & Caching](./Modules/14_Guardrails_Caching)
