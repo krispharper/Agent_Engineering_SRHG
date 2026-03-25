@@ -12,13 +12,15 @@ dependencies = [
     # Notebook 1: Advanced Retrieval
     "langchain>=0.3.19",
     "langchain-experimental>=0.3.4",
-    "langchain-cohere==0.4.4",
-    "cohere>=5.12.0,<5.13.0",
+    "langchain-cohere==0.5.0",
+    "cohere>=5.18.0,<6.0.0",
     "langchain-openai>=0.3.28",
     "python-dotenv>=1.0.1",
     "qdrant-client>=1.13.2",
     "rank-bm25>=0.2.2",
     "langchain-qdrant>=0.2.0",
+    "langchain-graph-retriever>=0.8.0",
+    "langchain-classic",
     # Notebook 2: Deep Agents
     "deepagents>=0.3.0",
     "langchain-anthropic>=0.3.15",
